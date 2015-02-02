@@ -1,0 +1,5 @@
+Curent:
+	inse.maxfalstein.co.uk/index.php
+Proposed:
+	inse.maxfalstein.co.uk/uop/index.php
+	inse.maxfalstein.co.uk/uos/index.php
