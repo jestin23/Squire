@@ -3,3 +3,13 @@ Curent:
 Proposed:
 	inse.maxfalstein.co.uk/uop/index.php
 	inse.maxfalstein.co.uk/uos/index.php
+
+
+Current repository includes Master & Source branches.
+
+Proposed deposits includes Master, Source & Includes branches.
+	Master - Houses the information files and README.md file.
+	Source - Houses the Squire source.
+	Includes - Houses the includes folders & files.
+
+The reason for the change is to further support the autonomous web server updates with inse.maxfalstein.co.uk & the includes web server with includes.inse.maxfalstein.co.uk.
