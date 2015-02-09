@@ -18,3 +18,5 @@
 			include( "includes.inse.maxfalstein.co.uk/com/footer.php" );
 			// Footer will sort out the footer cookie
 		?>
+	</body>
+</html>
