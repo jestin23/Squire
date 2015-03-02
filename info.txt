@@ -1,15 +1,23 @@
-Previous:
+This file will hold all code discussion notes.
+
+It serves as a reminder for decisions made in the official Squire Google Hangouts.
+
+--------
+
+History:
 	inse.maxfalstein.co.uk/index.php
-Current:
+Previous:
 	inse.maxfalstein.co.uk/uop/index.php
 	inse.maxfalstein.co.uk/uos/index.php
-Proposed:
+Current:
 	inse.maxfalstein.co.uk/index.php - landing page for inse course - MaX builds personally
 	squire.inse.maxfalstein.co.uk/index.php
 	squire.inse.maxfalstein.co.uk/UoP/index.php - University of Portsmouth specific Squire application subdomain
 	squire.inse.maxfalstein.co.uk/UoS/index.php - University of Southampton specific Squire application subdomain
+Proposed:
+	n/a
 
------
+--------
 
 Current repository includes Master & Source branches.
 
@@ -19,3 +27,5 @@ Proposed deposits includes Master, Source & Includes branches.
 	Includes - Houses the includes folders & files.
 
 The reason for the change is to further support the autonomous web server updates with inse.maxfalstein.co.uk & the includes web server with includes.inse.maxfalstein.co.uk
+
+--------
