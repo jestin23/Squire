@@ -1,6 +1,3 @@
-<h1>Hello</h1>
-
-
 // html version
 
         <section id="team_members">
@@ -42,11 +39,6 @@
                 <li>United Kingdom</li>
             </ul>
         <address>
-
-
-
-
-
 
 // php version
 
