@@ -5,18 +5,20 @@
 	<head>
 		<?php
 			$title = "Squire Settings - University of Portsmouth";
-			include( "inse.maxfalstein.co.uk/includes/com/head.php" );
+			include( "includes.inse.maxfalstein.co.uk/com/head.php" );
 		?>
 	</head>
 	<body>
 		<?php
-			include( "inse.maxfalstein.co.uk/includes/com/welcome.php" ); // I am not sure on this file name
-			include( "inse.maxfalstein.co.uk/includes/com/" );
-			include( "inse.maxfalstein.co.uk/includes/settings/" );
-			include( "inse.maxfalstein.co.uk/includes/settings/" );
-			include( "inse.maxfalstein.co.uk/includes/settings/" );
-			include( "inse.maxfalstein.co.uk/includes/settings/" ); // Cookie update code is within this file
-			include( "inse.maxfalstein.co.uk/includes/cookies/cookies.php" );
-			include( "inse.maxfalstein.co.uk/includes/com/web_admin_contact.php" );
-			include( "inse.maxfalstein.co.uk/includes/com/footer.php" );
+			include( "includes.inse.maxfalstein.co.uk/com/welcome.php" ); // I am not sure if this is required
+			include( "includes.inse.maxfalstein.co.uk/com/user_identifier.php" );
+			include( "includes.inse.maxfalstein.co.uk/settings/" );
+			include( "includes.inse.maxfalstein.co.uk/settings/" );
+			include( "includes.inse.maxfalstein.co.uk/settings/" );
+			include( "includes.inse.maxfalstein.co.uk/settings/" ); // Cookie update code is within this file
+			include( "includes.inse.maxfalstein.co.uk/cookies/cookies.php" );
+			include( "includes.inse.maxfalstein.co.uk/com/web_admin_contact.php" );
+			include( "includes.inse.maxfalstein.co.uk/com/footer.php" );
 		?>
+	</body>
+</html>
