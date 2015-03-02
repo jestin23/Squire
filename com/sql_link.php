@@ -10,7 +10,8 @@
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password); //connects to the database with the name and password set in the variables
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);  
 
-    // SQL statment using the PHP of the forms to go here... 
+    // SQL statment using the PHP of the forms to go here.
+    // Should we run inclusion files for different SQL queries?
 
     // Return the results here in JSON.
     }
