@@ -1,6 +1,6 @@
 # Squire
 
-## Squire - INSE Project Planning Web App [Group Coursework]
+### Squire - INSE Project Planning Web App [Group Coursework]
 
 Please read Team_Informatiom.txt.
 
